@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @razi1998
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJs and React Native
+- 🌱 I’m learned ReactJs and React Native
 - 💞️ I’m looking to collaborate on Web Applications on reactJs
 - 🌱 Now I am currently working on NextJS with graphQL API and apollo client
 - 📫 Reach me at rajivp332@gmail.com
