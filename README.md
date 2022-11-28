@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @razi1998
 - 👀 I’m interested in Web Development
-- 💞️ I’m looking to collaborate on Web Applications on reactJs
+- 💞️ I’m looking forward to collaborate on Web Applications on reactJs
 - 🌱 I have learned ReactJs and React Native
 - 🌱 I have worked with MaterialUI and also have an experience on pre-written components customization.
 - 🌱 I have worked on NextJS with graphQL API and apollo client
